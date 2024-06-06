@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋🏻 My name is Nischal Timalsina
+##### Product Designer / Frontend Developer
 
-<!--
-**nischaltimalsina/nischaltimalsina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Passionate Product Designer and Developer with a keen eye for clean, modern and minimal designs, 3+ years of experience building user-friendly web applications. Skilled in Product Design, Web Development, User Interface Design, JavaScript frameworks such as ReactJs, NextJs, NodeJs, ElectronJs, and UI/UX tools such as Figma, Framer and fluent in Agile Development Strategies. Eager to contribute to a team that values innovation and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Nepal 🇳🇵
+- 🖥️ See my portfolio at [nischaltimalsina.com.np](https://nischaltimalsina.com.np)
+- ✉️ You can contact me at [nischaltimalcna@gmail.com](mailto:nischaltimalcna@gmail.com)
+- 🚀 I'm currently working on [Doqett Labs](https;//doqett.com)
+- 🧠 I'm learning Product Design and Development
+- 🤝 I'm open to collaborating Ed Tech Projects and Startups
+- ⚡ Poet and Botanical Enthusiast
+### Skills
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/javascript-colored.svg" width="35" height="35" alt="JavaScript" /> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/typescript-colored.svg" width="35" height="35" alt="TypeScript" /> </a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/html5-colored.svg" width="35" height="35" alt="HTML5" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/react-colored.svg" width="35" height="35" alt="React" /> </a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/nextjs-colored.svg" width="35" height="35" alt="NextJs" /> </a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/sass-colored.svg" width="35" height="35" alt="Sass" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/tailwindcss-colored.svg" width="35" height="35" alt="TailwindCSS" /> </a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/nodejs-colored.svg" width="35" height="35" alt="NodeJS" /> </a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/express-colored.svg" width="35" height="35" alt="Express" /> </a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/nestjs-colored.svg" width="35" height="35" alt="NestJS" /> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/mongodb-colored.svg" width="35" height="35" alt="MongoDB" /> </a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/illustrator-colored.svg" width="35" height="35" alt="Illustrator" /> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/figma-colored.svg" width="35" height="35" alt="Figma" /> </a><a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/solana-colored.svg" width="35" height="35" alt="Solana" /> </a><a href="https://www.terra.money/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/skills/terra-colored.svg" width="35" height="35" alt="Terra" /> </a>
+
+### Socials
+
+
+<a href="https://github.com/nischaltimalsina" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/github-dark.svg" width="38" height="38" alt="github-dark" /> </a><a href="https://twitter.com/thelunaticlad" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/twitter.svg" width="38" height="38" alt="twitter" /> </a><a href="https://www.linkedin.com/in/nischaltimalsina" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/linkedin.svg" width="38" height="38" alt="linkedin" /> </a><a href="https://discord.com/users/thelunaticlad" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/discord.svg" width="38" height="38" alt="discord" /> </a><a href="https://instagram.com/nischaltimalcna" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/instagram.svg" width="38" height="38" alt="instagram" /> </a><a href="https://facebook.com/nischaltimalcna" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/facebook.svg" width="38" height="38" alt="facebook" /> </a><a href="https://dribbble.com/thelunaticlad" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BrijenMakwana/create-github-profile/main/public/assets/Icons/socials/dribbble.svg" width="38" height="38" alt="dribbble" /> </a>
