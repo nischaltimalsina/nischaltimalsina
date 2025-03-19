@@ -9,7 +9,7 @@ Passionate Product Designer and Developer with a keen eye for clean, modern and 
 - ✉️ You can contact me at [nischaltimalcna@gmail.com](mailto:nischaltimalcna@gmail.com)
 - 🚀 I'm currently working on [Detectyv](https://detectyv.com)
 - 🧠 I'm learning Product Design and Development
-- 🤝 I'm open to collaborating Ed Tech Projects and Startups
+- 🤝 I'm open to collaborating security and Fintech Projects and Startups
 - ⚡ Poet and Botanical Enthusiast
 ### Skills
 
