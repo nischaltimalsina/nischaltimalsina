@@ -7,7 +7,7 @@ Passionate Product Designer and Developer with a keen eye for clean, modern and 
 - 🌍 I'm based in Nepal 🇳🇵
 - 🖥️ See my portfolio at [nischaltimalsina.com.np](https://nischaltimalsina.com.np)
 - ✉️ You can contact me at [nischaltimalcna@gmail.com](mailto:nischaltimalcna@gmail.com)
-- 🚀 I'm currently working on [Detectyv](https://detectyv.com)
+- 🚀 I'm currently working on [Doqett](https://doqett.com)
 - 🧠 I'm learning Product Design and Development
 - 🤝 I'm open to collaborating security and Fintech Projects and Startups
 - ⚡ Poet and Botanical Enthusiast
